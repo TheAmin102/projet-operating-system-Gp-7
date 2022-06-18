@@ -79,6 +79,9 @@ click cli to start coding for database
  ![05](https://user-images.githubusercontent.com/106437465/174429189-f4e29073-d614-4324-a656-337041fbcad3.png)
 
 first we enter our database hodpital and create out first collection 
+ ![06](https://user-images.githubusercontent.com/106437465/174429319-c19d53f7-ed53-4875-8b9f-3e3145df2dd5.png)
+ 
+ ![08](file image/07.png)
  
 
  
