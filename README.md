@@ -79,40 +79,40 @@ In this command we use the  –follow flag will make your log continually stream
  
 ## Using Docker to run MONGODB 
 example run mongodb on docker.
- first step is to click run of your group container in docker 
+1) first step is to click run of your group container in docker 
 ![02](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/02.png)
 
-click cli to start coding for database
+2) click cli to start coding for database
  ![03](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/03.png)
  
- typing mongosh to enter mongodb coding
+3) typing mongosh to enter mongodb coding
  ![05](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/05.png)
 
-first we enter our database hodpital and create out first collection 
+4) first we enter our database hodpital and create out first collection 
  
 ![06](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/06.png)
  
-using the db.instrumentone.insertMany()
+5) using the db.instrumentone.insertMany()
  
 ![07](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/07.png)
  
- create collection for instrument one
+6) create collection for instrument one
  
 ![11](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/11.png)
  
- view database on coleection one
+7) view database on collection one
  
 ![13](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/13.png)
 
- create collection for instrument two
+8) create collection for instrument two
  
 ![08](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/08.png)
  
- insert data for collection instrument two
+9) insert data for collection instrument two
  
 ![09](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/09.png)
  
- view collection for instucment two
+10) view collection for instucment two
  
  ![10](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/10.png)
  <br>
