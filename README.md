@@ -26,23 +26,25 @@ The docker will ask you to accept the term and you need to accept the term to co
 ## How to install WSL2.
  1)The first step, After downloading the Wsl2<br>
  2)Right-click on the Installer and give the administrator admission to install the program to the apps. 
- 3)Wait for the apps to install and pop up we click the “Next” button. 
- ![1) WSL Installlation](https://user-images.githubusercontent.com/106076684/173994433-225da72f-8a87-40dc-8669-7ec293fd03b4.png)
+ 3)Wait for the apps to install and pop up we click the “Next” button.<br>
+ ![01](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/01.PNG)<br>
  4)Then, the installing windows Subsytem for Linux update for windows will start and wait until installer to be doned.
  5)Click Finish when the installer is done and click finish when it is done.
 
 ## How to do Microservice in MongoDB.
- 1)After you open the docker, on the Homepage you will see MongoDB, click the “RUN: button to download the MongoDB images.
- 2)When the running is done, you will see the live code of MongoDB, 
- 3)Now your MongoDB is ready.
+ 1)After you open the docker, on the Homepage you will see MongoDB, click the “RUN: button to download the MongoDB images.<br>
+ 2)When the running is done, you will see the live code of MongoDB,<br>
+ 3)Now your MongoDB is ready.<br>
 
 ## Introduction to docker
  Examples of code and commands
 1) We can start the MongoDB container in docker by using the command in PowerShell 
-2) In PowerShell, u can type 
-“ docker run -d -p 82:82 --name group-7-os mongo:latest “
+ ![23](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/23.png)
+2) In PowerShell, u can type <br>
+“ docker run -d -p 82:82 --name group-7-os mongo:latest “<br>
+ ![20](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/20.png)<br>
 3) The “ -d “ (detach) flag means that the docker will run in the background 
-The container port “82 “  the MongoDB default is bound back to port 82 on your host. 
+The container port “82 “  the MongoDB default is bound back to port 82 on your host. <br>
 4) You will connect to your MongoDB instance on “ localhost:82 “
   The port number can be changed by modifying the -p flag, let said we want localhost to 44334 we just need to rewrite the command line to 
 “ docker run -d -p 44334:44334 --name group-7-os mongo:latest “
@@ -53,18 +55,11 @@ mongo: latest will be the version of MongoDB we will use
 By using the command “ exec- it “ it will launch an interactive Mongo shell session in the terminal. It will allow faster interaction with your database without external dependencies.
 7) docker logs group-7-os --follow
 In this command we use the  –follow flag will make your log continually streamed on your terminal 
-8) Connecting From Another Container
-If you're using Docker to install Mongo, you'll probably want to connect to it from another container, such as your API server. Joining both to a shared Docker network is the best option. This eliminates the requirement for your host to publish Mongo ports, minimising your attack surface.
 
-“ docker network create mongo-network
-docker run -d --network mongo-network --name example-mongo mongo: latest “
-
-
-The mongo network should also be joined by your "client" container. Within MongoDB connection strings, it will be permitted to refer to the container by name. It may, for example, contact the database by dialling example-mongo:27017.
-
-
-9) If you want to host a real database in your Mongo container you must be using Docker Volumes..The data will not be lost when you stop the container or restart the Docker daemon, if you are using  Volume persist.<br>
-10)The MongoDB image is configured to store all its data in the /data /db directory in the container filesystem. Mounting a volume to this location will ensure data is persisted outside the container.<br>
+8)If you want to host a real database in your Mongo container you must be using Docker Volumes..The data will not be lost when you stop the container or restart the Docker daemon, if you are using  Volume persist.<br>
+9)The MongoDB image is configured to store all its data in the /data /db directory in the container filesystem. Mounting a volume to this location will ensure data is persisted outside the container.<br>
+ 
+ Starting Docker Container and Create 
 
  
 ## Using Docker to run MONGODB 
