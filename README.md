@@ -1,10 +1,3 @@
-body {
-background-color: lightblue;
-}
-h1 {
-color: navy;
-margin-left: 20px;
-}
 
 # <h1> projet-operating-system-Gp-7 
 
