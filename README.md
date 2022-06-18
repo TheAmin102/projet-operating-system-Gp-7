@@ -81,32 +81,8 @@ click cli to start coding for database
 first we enter our database hodpital and create out first collection 
  ![06](https://user-images.githubusercontent.com/106437465/174429319-c19d53f7-ed53-4875-8b9f-3e3145df2dd5.png)
  
- ![08](file image/07.png)
- 
-
- 
- 
+ using the db.instrumentone.insertMany()
  
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
-
-
-
-  
-
