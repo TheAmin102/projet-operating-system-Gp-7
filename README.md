@@ -79,10 +79,34 @@ click cli to start coding for database
  ![05](https://user-images.githubusercontent.com/106437465/174429189-f4e29073-d614-4324-a656-337041fbcad3.png)
 
 first we enter our database hodpital and create out first collection 
- ![06](https://user-images.githubusercontent.com/106437465/174429319-c19d53f7-ed53-4875-8b9f-3e3145df2dd5.png)
  
- using the db.instrumentone.insertMany()
- ![07](https://user-images.githubusercontent.com/106437465/174439105-957b3f4d-7838-4040-8d0b-d84931c23b51.png)
+![06](https://user-images.githubusercontent.com/106437465/174429319-c19d53f7-ed53-4875-8b9f-3e3145df2dd5.png)
+ 
+using the db.instrumentone.insertMany()
+ 
+![07](https://user-images.githubusercontent.com/106437465/174439105-957b3f4d-7838-4040-8d0b-d84931c23b51.png)
+ 
+ create collection for instrument one
+ 
+![11](https://user-images.githubusercontent.com/106437465/174439138-602bd8ce-5dbe-4652-9c1b-4287f4004bb9.png)
+ 
+ view database on coleection one
+ 
+![13](https://user-images.githubusercontent.com/106437465/174439145-f7fd08ec-9690-4829-a30d-cfdbd89b1725.png)
+
+ create collection for instrument two
+ 
+![08](https://user-images.githubusercontent.com/106437465/174439124-6a38ff6a-b2ac-4595-a86b-176ec707c87f.png)
+ 
+ insert data for collection instrument two
+ 
+![09](https://user-images.githubusercontent.com/106437465/174439128-6386bf5d-f403-4d00-974c-306a3c01aea4.png)
+ 
+ view collection for instucment two
+ 
+![10](https://user-images.githubusercontent.com/106437465/174439133-4d281c87-d8bf-461c-86d7-94db94e37197.png)
+  <br>
+ 
 
  
  
