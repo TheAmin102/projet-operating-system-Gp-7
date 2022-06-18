@@ -78,7 +78,7 @@ click cli to start coding for database
  typing mongosh to enter mongodb coding
  ![05](https://user-images.githubusercontent.com/106437465/174429189-f4e29073-d614-4324-a656-337041fbcad3.png)
 
- 
+first we enter our database hodpital and create out first collection 
  
 
  
