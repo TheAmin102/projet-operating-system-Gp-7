@@ -73,7 +73,7 @@ In this command we use the  –follow flag will make your log continually stream
  ![20](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/20.png)<br>
  3) If show no error meaning that your container is succesfully created<br>
  ![21](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/21.png)<br>
- 4) Check the container in Docker to see the new created 
+ 4) Check the container in Docker to see the new container has been created
  ![22](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/22.jpg)
 
  
