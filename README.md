@@ -70,7 +70,8 @@ The mongo network should also be joined by your "client" container. Within Mongo
  
 example run mongodb on docker.
  first step is to click run of your group container in docker 
- ![image1](file image/02.png)
+![02](https://user-images.githubusercontent.com/106437465/174428783-5506454e-36d9-4ebc-a979-3ea7f319a535.png)
+
  next step is 
  
  
