@@ -76,6 +76,9 @@ click cli to start coding for database
  ![03](https://user-images.githubusercontent.com/106437465/174428937-ebb300bb-a558-44dc-a04c-643ad8fcb990.png)
  
  typing mongosh to enter mongodb coding
+ ![05](https://user-images.githubusercontent.com/106437465/174429189-f4e29073-d614-4324-a656-337041fbcad3.png)
+
+ 
  
 
  
