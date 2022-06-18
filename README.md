@@ -23,7 +23,7 @@ After finishing click close to exit the software installations.<br>
 How to start running docker:
 Search docker on your desktops and click the docker, 
 The docker will ask you to accept the term and you need to accept the term to continue.
-## How to install WSL2[^2].
+## How to install WSL2.
  1)The first step, After downloading the Wsl2<br>
  2)Right-click on the Installer and give the administrator admission to install the program to the apps. 
  3)Wait for the apps to install and pop up we click the “Next” button. 
@@ -31,12 +31,12 @@ The docker will ask you to accept the term and you need to accept the term to co
  4)Then, the installing windows Subsytem for Linux update for windows will start and wait until installer to be doned.
  5)Click Finish when the installer is done and click finish when it is done.
 
-## How to do Microservice in MongoDB[^3].
+## How to do Microservice in MongoDB.
  1)After you open the docker, on the Homepage you will see MongoDB, click the “RUN: button to download the MongoDB images.
  2)When the running is done, you will see the live code of MongoDB, 
  3)Now your MongoDB is ready.
 
- introduction to docker
+## Introduction to docker
  Examples of code and commands
 1) We can start the MongoDB container in docker by using the command in PowerShell 
 2) In PowerShell, u can type 
@@ -63,11 +63,11 @@ docker run -d --network mongo-network --name example-mongo mongo: latest “
 The mongo network should also be joined by your "client" container. Within MongoDB connection strings, it will be permitted to refer to the container by name. It may, for example, contact the database by dialling example-mongo:27017.
 
 
-9) If you want to host a real database in your Mongo container you must be using Docker Volumes..The data will not be lost when you stop the container or restart the Docker daemon, if you are using  Volume persist
-10)The MongoDB image is configured to store all its data in the /data /db directory in the container filesystem. Mounting a volume to this location will ensure data is persisted outside the container.
+9) If you want to host a real database in your Mongo container you must be using Docker Volumes..The data will not be lost when you stop the container or restart the Docker daemon, if you are using  Volume persist.<br>
+10)The MongoDB image is configured to store all its data in the /data /db directory in the container filesystem. Mounting a volume to this location will ensure data is persisted outside the container.<br>
 
  
- 
+## Using Docker to run MONGODB 
 example run mongodb on docker.
  first step is to click run of your group container in docker 
 ![02](https://user-images.githubusercontent.com/106437465/174428783-5506454e-36d9-4ebc-a979-3ea7f319a535.png)
