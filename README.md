@@ -104,6 +104,8 @@ using the db.instrumentone.insertMany()
  
  view collection for instucment two
  
+ ![10](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/10.PNG)
+ <br>
 ![10](https://user-images.githubusercontent.com/106437465/174439133-4d281c87-d8bf-461c-86d7-94db94e37197.png)
   <br>
  
