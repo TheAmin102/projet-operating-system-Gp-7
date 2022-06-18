@@ -31,10 +31,6 @@ The docker will ask you to accept the term and you need to accept the term to co
  4)Then, the installing windows Subsytem for Linux update for windows will start and wait until installer to be doned.
  5)Click Finish when the installer is done and click finish when it is done.
 
-## How to do Microservice in MongoDB.
- 1)After you open the docker, on the Homepage you will see MongoDB, click the “RUN: button to download the MongoDB images.<br>
- 2)When the running is done, you will see the live code of MongoDB,<br>
- 3)Now your MongoDB is ready.<br>
 
 ## Introduction to docker
  Examples of code and commands
