@@ -82,6 +82,10 @@ first we enter our database hodpital and create out first collection
  ![06](https://user-images.githubusercontent.com/106437465/174429319-c19d53f7-ed53-4875-8b9f-3e3145df2dd5.png)
  
  using the db.instrumentone.insertMany()
+ ![07](https://user-images.githubusercontent.com/106437465/174439105-957b3f4d-7838-4040-8d0b-d84931c23b51.png)
+
+ 
+ 
  
  
 
