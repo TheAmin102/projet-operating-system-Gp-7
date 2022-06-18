@@ -60,13 +60,13 @@ In this command we use the  –follow flag will make your log continually stream
  ![24](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/24.png)<br>
  2) On home page Docker look for Mongo
  ![25](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/25.jpg)<br>
- 3) Click run and make sure Your internet connection is On
+ 3) Click run and make sure Your internet connection is On.<br>
  ![26](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/26.png)<br>
  4) On imgaes page , We can see the progress bar . Fast internet speed required to speed up the progress
  ![27](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/27.jpg)<br>
  5) After finish , we can see the mongo image in our Docker
  ![28](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/28.jpg)<br>
- 6) When status " IN USE " is green light mean that our container for Mongo is running
+ 6) When status " IN USE " is green light mean that our container for Mongo is running.<br>
  ![29](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%202/29.png)<br>
  
 ## Starting Docker Container and Create our MONGODDB Container
