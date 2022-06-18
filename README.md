@@ -74,6 +74,9 @@ example run mongodb on docker.
 
 click cli to start coding for database
  ![03](https://user-images.githubusercontent.com/106437465/174428937-ebb300bb-a558-44dc-a04c-643ad8fcb990.png)
+ 
+ typing mongosh to enter mongodb coding
+ 
 
  
  
