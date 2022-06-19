@@ -15,6 +15,10 @@ Rabiatul Adawiyah Binti Mohammad Azmi 2013214
 ## How to Install Dockers
 Next, We will download the docker, go to the link below to do:
 https://docs.docker.com/desktop/windows/install/ 
+![Screenshot (4)](https://user-images.githubusercontent.com/106076684/174470293-33ad2428-8055-407e-8179-3cc25f8d01a0.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/106076684/174470295-98a96091-0077-429f-8f3f-0ffdd932487f.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/106076684/174470296-310bf927-9886-41ce-b5cd-56c3ff9296df.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/106076684/174470299-9d4422b5-6e0a-410c-9eda-3cfe6a11a841.png)
 
 If you are using Mac you can choose the different version on the left side of the pages.
 Give permission to the docker software and wait for the software to automatic install. 
