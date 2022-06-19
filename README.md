@@ -46,7 +46,28 @@ The docker will ask you to accept the term and you need to accept the term to co
 Docker is a free and open platform for creating, distributing, and executing apps. Docker allows you to decouple your apps from your infrastructure, allowing you to swiftly release software. You can manage your infrastructure the same way you control your applications with Docker. You may drastically minimise the time between writing code and executing it in production by leveraging Docker's approaches for shipping, testing, and deploying code quickly.
 
 
-
+## Example command in Docker and run 
+ 1) We can find out version of Docker we installed on Windows<br>
+ ![31](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/31.png)
+ 2) Assume you need to download a docker image from dockerhub (docker repository). The following is an example of a MYSQL image being pulled.
+ If my Images on MYSQL is alredy download to latest it will show this. 
+ ![32](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/32.png)
+ This is the process to pull Images MYSQL.
+ ![33](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/33.png)
+ This is the completed process of Downloading the Images. P.S. need fast internet to speed up the progress
+ ![34](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/34.png)
+ 3) Using this code to list all of the docker images that have been pulled onto the system, along with image metadata like TAG/IMAGE ID/SIZE, and so on.
+ ![35](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/35.png)
+ 4) Next we execute the docker image that was mentioned in the command. This command will start a docker container that will run MYSQL.
+ ![36](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/36.png)
+ 5) Using " docker ps " shows all of the docker containers that are currently operating, along with container information.
+ ![37](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/37.png)
+ 6) Using " docker ps -a " to list all the docker containers that are currently operating, exited, or stopped, along with their details.
+ ![38](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/38.png)
+ 7) Also we can access the docker container and run commands inside the container. Right now we accessing the MYSQL container in this example.
+ ![39](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/39.png)
+ ![40](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image%203/40.png)
+ 
  
 ## How to get Mongo Images install on Docker
  1) Open docker 
