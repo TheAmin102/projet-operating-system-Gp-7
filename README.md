@@ -15,11 +15,7 @@ Rabiatul Adawiyah Binti Mohammad Azmi 2013214
 ## How to Install Dockers
 Next, We will download the docker, go to the link below to do:
 https://docs.docker.com/desktop/windows/install/ 
-![Screenshot (4)](https://user-images.githubusercontent.com/106076684/174470293-33ad2428-8055-407e-8179-3cc25f8d01a0.png)
-![Screenshot (8)](https://user-images.githubusercontent.com/106076684/174470295-98a96091-0077-429f-8f3f-0ffdd932487f.png)
-![Screenshot (9)](https://user-images.githubusercontent.com/106076684/174470296-310bf927-9886-41ce-b5cd-56c3ff9296df.png)
-![Screenshot (10)](https://user-images.githubusercontent.com/106076684/174470299-9d4422b5-6e0a-410c-9eda-3cfe6a11a841.png)
-
+ 
 If you are using Mac you can choose the different version on the left side of the pages.
 Give permission to the docker software and wait for the software to automatic install. 
 After finishing click close to exit the software installations.<br>
@@ -27,33 +23,30 @@ After finishing click close to exit the software installations.<br>
 How to start running docker:
 Search docker on your desktops and click the docker, 
 The docker will ask you to accept the term and you need to accept the term to continue.
+1) After you Accepot the term and continue, you will see the interface of docker , then you just follow the tutorial if you are new to this apps,eitherwise you can skip if you already know how use it.
+ ![Screenshot (11)](https://user-images.githubusercontent.com/106076684/174476813-ce64af2b-5f59-4f41-b69c-eeddc605b680.png)
+ 2)CLick start and the clone pages will show up, click next step to proceed to the next pages or second phase.
+![Screenshot (12)](https://user-images.githubusercontent.com/106076684/174476928-bbf788de-84db-48a9-b752-4f75f1c003ed.png)
+ 3)For the 3 phase, you need to give permission to the docker by allowing windows firewall to give full access to the docker and click allow access. then proceed to click next step in the 3 page after you give permission top docker. <br>
+ ![Screenshot (13)](https://user-images.githubusercontent.com/106076684/174477183-b78e499c-eb8a-4757-9ae3-85b3196509a4.png)<br>
+ 4)close the docker and start to use the software.
+
 ## How to install WSL2.
- 1)The first step, After downloading the Wsl2<br>
- 2)Right-click on the Installer and give the administrator admission to install the program to the apps. 
- 3)Wait for the apps to install and pop up we click the “Next” button.<br>
- ![01](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/01.PNG)<br>
- 4)Then, the installing windows Subsytem for Linux update for windows will start and wait until installer to be doned.
- 5)Click Finish when the installer is done and click finish when it is done.
+1. To download wsl2 you need to go to the link provided :(https://aka.ms/wsl2kernel)
+ 2. Then you will see the manual installation steps, then read and check the requirement with your laptop either it is compatible or not then proceed to the 4 steps.<br>
+![step 2 (2)](https://user-images.githubusercontent.com/106076684/174479734-85a0a413-bacb-470e-9113-0d99da1af36a.jpeg)
+ 3. Then you will see the picture above, click the blue link and it will auto download wsl2 into your laptop. 
+ ![Screenshot (5)](https://user-images.githubusercontent.com/106076684/174479623-86db2722-6277-4d66-8dc5-4678d134f970.png)<br>
+ 4. click to your wsl2 after you download and it will show the picture above and click finish. 
+ <img width="384" alt="4 (2)" src="https://user-images.githubusercontent.com/106076684/174479642-7d0f96f1-94e2-4191-a9cc-429cc273af20.png"><br>
+ 5. wait until the procees finish and when it doned , Open your docker and you can use your docker.
 
 
 ## Introduction to docker
- Examples of code and commands
 
-3) The “ -d “ (detach) flag means that the docker will run in the background 
-The container port “82 “  the MongoDB default is bound back to port 82 on your host. <br>
-4) You will connect to your MongoDB instance on “ localhost:82 “
-  The port number can be changed by modifying the -p flag, let said we want localhost to 44334 we just need to rewrite the command line to 
-“ docker run -d -p 44334:44334 --name group-7-os mongo:latest “
-5) “ name group-7-os mongo: latest “
-group-7-os will be the name of our container in Docker
-mongo: latest will be the version of MongoDB we will use 
-6) docker exec -it group-7-os mongo 
-By using the command “ exec- it “ it will launch an interactive Mongo shell session in the terminal. It will allow faster interaction with your database without external dependencies.
-7) docker logs group-7-os --follow
-In this command we use the  –follow flag will make your log continually streamed on your terminal 
 
-8)If you want to host a real database in your Mongo container you must be using Docker Volumes..The data will not be lost when you stop the container or restart the Docker daemon, if you are using  Volume persist.<br>
-9)The MongoDB image is configured to store all its data in the /data /db directory in the container filesystem. Mounting a volume to this location will ensure data is persisted outside the container.<br>
+
+
  
 ## How to get Mongo Images install on Docker
  1) Open docker 
