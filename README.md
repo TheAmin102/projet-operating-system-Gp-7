@@ -20,7 +20,7 @@ If you are using Mac you can choose the different version on the left side of th
 Give permission to the docker software and wait for the software to automatic install. 
 After finishing click close to exit the software installations.<br>
 
-How to start running docker:
+## How to start running docker:
 Search docker on your desktops and click the docker, 
 The docker will ask you to accept the term and you need to accept the term to continue.
 1) After you Accepot the term and continue, you will see the interface of docker , then you just follow the tutorial if you are new to this apps,eitherwise you can skip if you already know how use it.
@@ -29,7 +29,7 @@ The docker will ask you to accept the term and you need to accept the term to co
 ![Screenshot (12)](https://user-images.githubusercontent.com/106076684/174476928-bbf788de-84db-48a9-b752-4f75f1c003ed.png)
  3)For the 3 phase, you need to give permission to the docker by allowing windows firewall to give full access to the docker and click allow access. then proceed to click next step in the 3 page after you give permission top docker. <br>
  ![Screenshot (13)](https://user-images.githubusercontent.com/106076684/174477183-b78e499c-eb8a-4757-9ae3-85b3196509a4.png)<br>
- 4)close the docker and start to use the software.
+ 4)Close the docker and start to use the software.
 
 ## How to install WSL2.
 1. To download wsl2 you need to go to the link provided :(https://aka.ms/wsl2kernel)
@@ -37,9 +37,9 @@ The docker will ask you to accept the term and you need to accept the term to co
 ![step 2 (2)](https://user-images.githubusercontent.com/106076684/174479734-85a0a413-bacb-470e-9113-0d99da1af36a.jpeg)
  3. Then you will see the picture above, click the blue link and it will auto download wsl2 into your laptop. 
  ![Screenshot (5)](https://user-images.githubusercontent.com/106076684/174479623-86db2722-6277-4d66-8dc5-4678d134f970.png)<br>
- 4. click to your wsl2 after you download and it will show the picture above and click finish. 
+ 4. Click to your wsl2 after you download and it will show the picture above and click finish. 
  <img width="384" alt="4 (2)" src="https://user-images.githubusercontent.com/106076684/174479642-7d0f96f1-94e2-4191-a9cc-429cc273af20.png"><br>
- 5. wait until the procees finish and when it doned , Open your docker and you can use your docker.
+ 5. Wait until the procees finish and when it doned , Open your docker and you can use your docker.
 
 
 ## Introduction to docker
@@ -97,48 +97,36 @@ Docker is a free and open platform for creating, distributing, and executing app
  
 ## Using Docker to run MONGODB 
 example run mongodb on docker.
-1) first step is to click run of your group container in docker 
+1) First step is to click run of your group container in docker 
 ![02](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/02.png)
 
-2) click cli to start coding for database
+2) Click cli to start coding for database
  ![03](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/03.png)
  
-3) typing mongosh to enter mongodb coding
+3) Typing mongosh to enter mongodb coding
  ![05](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/05.png)
 
-4) first we enter our database hodpital and create out first collection 
+4) First we enter our database hodpital and create out first collection 
  
 ![06](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/06.png)
  
-5) using the db.instrumentone.insertMany()
+5) Using the db.instrumentone.insertMany()
  
 ![07](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/07.png)
  
-6) create collection for instrument one
- 
-![11](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/11.png)
- 
-7) view database on collection one
+6) View database on collection one
  
 ![13](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/13.png)
 
-8) create collection for instrument two
+7) Create collection for instrument two
  
 ![08](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/08.png)
  
-9) insert data for collection instrument two
+8) Insert data for collection instrument two
  
 ![09](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/09.png)
  
-10) view collection for instucment two
+9) View collection for instucment two
  
  ![10](https://github.com/TheAmin102/projet-operating-system-Gp-7/blob/main/file%20image/10.png)
- <br>
- 
-
- 
- 
- 
- 
-
- 
+ <br> 
