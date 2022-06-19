@@ -43,7 +43,7 @@ The docker will ask you to accept the term and you need to accept the term to co
 
 
 ## Introduction to docker
-
+Docker is a free and open platform for creating, distributing, and executing apps. Docker allows you to decouple your apps from your infrastructure, allowing you to swiftly release software. You can manage your infrastructure the same way you control your applications with Docker. You may drastically minimise the time between writing code and executing it in production by leveraging Docker's approaches for shipping, testing, and deploying code quickly.
 
 
 
